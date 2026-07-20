@@ -382,7 +382,7 @@ h2{font-size:25px !important}
 
 </x-dc>
 <script type="text/x-dc" data-dc-script data-props="{
-  &quot;contactEmail&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;kcafmartinez@gmail.com&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Contato&quot;},
+  &quot;contactEmail&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;kelymartinez@remax.com.br&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Contato&quot;},
   &quot;contactWhatsapp&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;+55 (21) 99003-7735&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Contato&quot;},
   &quot;defaultLang&quot;: {&quot;editor&quot;: &quot;enum&quot;, &quot;options&quot;: [&quot;pt&quot;, &quot;en&quot;, &quot;es&quot;], &quot;default&quot;: &quot;pt&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Idioma&quot;}
 }">
@@ -410,7 +410,7 @@ class Component extends DCLogic {
 
   renderVals() {
     const { lang, t } = this.state;
-    const email = this.props.contactEmail ?? 'kcafmartinez@gmail.com';
+    const email = this.props.contactEmail ?? 'kelymartinez@remax.com.br';
     const phone = this.props.contactWhatsapp ?? '+55 (21) 99003-7735';
     const base = {
       font: "500 11px 'Archivo',sans-serif", letterSpacing: '.08em', padding: '7px 12px',
