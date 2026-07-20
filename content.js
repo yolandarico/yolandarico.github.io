@@ -15,17 +15,17 @@ pt: {
   },
   overview: {
     label:'VISÃO GERAL', title:'Escala urbana e flexibilidade em uma localização consolidada',
-    p1:'Implantado em um terreno de 1.989 m², o Centro Empresarial Yolanda Rico possui aproximadamente 8.100 m² de área construída total, reunindo áreas corporativas, espaço comercial, circulação, infraestrutura predial e estacionamento.',
+    p1:'Implantado em um terreno de 2.055 m² — com 17,33 m de frente, 18,85 m de fundos, 111,85 m à direita e 115,33 m à esquerda, conforme o RGI —, o Centro Empresarial Yolanda Rico possui aproximadamente 8.100 m² de área construída total, reunindo áreas corporativas, espaço comercial, circulação, infraestrutura predial e estacionamento.',
     p2:'A área corporativa é distribuída em 8 pavimentos amplos, com aproximadamente 425 m² cada, permitindo diferentes configurações de layout e adaptação a múltiplos perfis de ocupação. Atualmente, os pavimentos corporativos contam com banheiros masculino e feminino.',
-    p3:'No térreo, uma loja de aproximadamente 440 m², com ampla presença de fachada, oferece potencial para diferentes operações comerciais e de serviços.',
+    p3:'No térreo, uma loja de aproximadamente 390 m² (cerca de 440 m² incluindo portaria, hall dos elevadores e corredor), com ampla presença de fachada, oferece potencial para diferentes operações comerciais e de serviços.',
     p4:'Na parte posterior do terreno, o estacionamento é distribuído em três níveis — subsolo, térreo e 2º pavimento —, com capacidade total informada de 125 vagas.',
     statsTitle:'Números do ativo',
     stats:[
-      {v:'1.989 m²', l:'Área do terreno'},
+      {v:'2.055 m²', l:'Área do terreno (RGI)'},
       {v:'8.100 m²', l:'Área construída total'},
       {v:'8 pavimentos', l:'Área corporativa'},
       {v:'≈ 425 m²', l:'Por pavimento corporativo'},
-      {v:'≈ 440 m²', l:'Loja no térreo'},
+      {v:'≈ 390 m²', l:'Loja no térreo'},
       {v:'125 vagas', l:'Capacidade total informada de estacionamento'}
     ]
   },
@@ -72,9 +72,11 @@ pt: {
       items:[
         {v:'Metrô Botafogo', t:'≈12 min', d:'A pé (850 m) — linhas 1 e 2, integração com toda a cidade'},
         {v:'Na porta', t:'Corredores de ônibus', d:'Linhas BRS na Rua São Clemente e Voluntários da Pátria'},
-        {v:'Aeroporto Santos Dumont', t:'≈15 min', d:'De carro — voos executivos para São Paulo e Brasília'},
+        {v:'Aeroporto Santos Dumont', t:'≈15 min · 8 km', d:'De carro — voos para diversas capitais brasileiras'},
+        {v:'Galeão (GIG)', t:'≈25 min · 19,3 km', d:'De carro — Aeroporto Internacional Antônio Carlos Jobim'},
         {v:'Centro (CBD)', t:'≈15 min', d:'De carro ou metrô direto até a Carioca/Cinelândia'},
         {v:'Botafogo Praia Shopping', t:'≈12 min', d:'A pé — comércio, serviços e alimentação'},
+        {v:'Shopping Rio Sul', t:'≈25 min · 5,2 km', d:'De carro — um dos maiores centros comerciais da Zona Sul'},
         {v:'Vizinhança', t:'Polo corporativo', d:'Torres corporativas da Praia de Botafogo e do Mourisco'},
         {v:'Próximos', t:'Saúde e educação', d:'Hospitais, clínicas e colégios tradicionais no bairro'},
         {v:'Completo', t:'Comércio de rua', d:'Bancos, restaurantes e serviços na própria São Clemente'}
@@ -177,7 +179,7 @@ pt: {
     label:'CONTATO', title:'Conheça a oportunidade de aquisição',
     p1:'O Centro Empresarial Yolanda Rico oferece a oportunidade de adquirir um edifício completo em Botafogo e definir uma estratégia integrada para seu próximo ciclo.',
     p2:'Entre em contato para receber informações adicionais sobre o ativo, o Memorando de Investimento, a documentação disponível e o processo de venda.',
-    priceNote:'Preço sob consulta. O ativo é disponibilizado com preferência pela venda integral, podendo igualmente ser considerada a locação, mediante avaliação das condições propostas.',
+    priceNote:'Preço sob consulta. O ativo é disponibilizado para venda integral.',
     broker:'Kely Cristine Martinez · CRECI-RJ 100.131',
     actions:['Solicite informações sobre o ativo','Receba o Memorando de Investimento','Agende uma visita técnica'],
     emailBtn:'Enviar e-mail', waBtn:'WhatsApp',
@@ -206,17 +208,17 @@ en: {
   },
   overview: {
     label:'OVERVIEW', title:'A complete building in the heart of Botafogo',
-    p1:'Located on a 1,989 sqm site, Centro Empresarial Yolanda Rico comprises approximately 8,100 sqm of total built area, combining corporate space, retail, circulation, building infrastructure and parking.',
+    p1:'Located on a 2,055 sqm site — 17.33 m frontage, 18.85 m rear, 111.85 m on the right and 115.33 m on the left, as per the property registry (RGI) —, Centro Empresarial Yolanda Rico comprises approximately 8,100 sqm of total built area, combining corporate space, retail, circulation, building infrastructure and parking.',
     p2:'The corporate component is distributed across 8 spacious floors of approximately 425 sqm each, allowing different layouts and occupancy configurations. The corporate floors currently include separate male and female restrooms.',
-    p3:'At ground level, an approximately 440 sqm retail unit with significant street presence offers potential for different retail and service operations.',
+    p3:'At ground level, an approximately 390 sqm retail unit (around 440 sqm including the lobby, elevator hall and corridor) with significant street presence offers potential for different retail and service operations.',
     p4:'Parking is located at the rear of the site and distributed across three levels — basement, ground level and second floor — with a reported total capacity of 125 parking spaces.',
     statsTitle:'Key figures',
     stats:[
-      {v:'1,989 sqm', l:'Site area'},
+      {v:'2,055 sqm', l:'Site area (registry)'},
       {v:'8,100 sqm', l:'Total built area'},
       {v:'8 floors', l:'Corporate component'},
       {v:'≈ 425 sqm', l:'Per corporate floor'},
-      {v:'≈ 440 sqm', l:'Ground-floor retail unit'},
+      {v:'≈ 390 sqm', l:'Ground-floor retail unit'},
       {v:'125 spaces', l:'Reported total parking capacity'}
     ]
   },
@@ -263,9 +265,11 @@ en: {
       items:[
         {v:'Botafogo metro station', t:'≈12 min', d:'On foot (850 m) — lines 1 and 2, connecting the whole city'},
         {v:'At the door', t:'Bus corridors', d:'BRS lines along Rua São Clemente and Voluntários da Pátria'},
-        {v:'Santos Dumont Airport', t:'≈15 min', d:'By car — shuttle flights to São Paulo and Brasília'},
+        {v:'Santos Dumont Airport', t:'≈15 min · 8 km', d:'By car — flights to major Brazilian capitals'},
+        {v:'Galeão (GIG)', t:'≈25 min · 19.3 km', d:'By car — Rio de Janeiro international airport (Antônio Carlos Jobim)'},
         {v:'Downtown (CBD)', t:'≈15 min', d:'By car, or direct metro to Carioca/Cinelândia'},
         {v:'Botafogo Praia Shopping', t:'≈12 min', d:'On foot — retail, services and dining'},
+        {v:'Shopping Rio Sul', t:'≈25 min · 5.2 km', d:'By car — one of the largest malls in the Zona Sul'},
         {v:'Next door', t:'Corporate hub', d:'The office towers of Praia de Botafogo and Mourisco'},
         {v:'Nearby', t:'Health and education', d:'Hospitals, clinics and traditional schools in the district'},
         {v:'Complete', t:'Street retail', d:'Banks, restaurants and services on São Clemente itself'}
@@ -368,7 +372,7 @@ en: {
     label:'CONTACT', title:'Explore the acquisition opportunity',
     p1:'Centro Empresarial Yolanda Rico offers the opportunity to acquire a complete building in Botafogo and define an integrated strategy for its next cycle.',
     p2:'Contact us to receive additional information about the asset, the Investment Memorandum, available documentation and the sale process.',
-    priceNote:'Price on request. The asset is offered with preference for the sale of the whole building; leasing may equally be considered, subject to assessment of the proposed terms.',
+    priceNote:'Price on request. The asset is offered for sale as a whole building.',
     broker:'Kely Cristine Martinez · CRECI-RJ 100.131',
     actions:['Request information about the asset','Receive the Investment Memorandum','Schedule a technical visit'],
     emailBtn:'Send e-mail', waBtn:'WhatsApp',
@@ -397,17 +401,17 @@ es: {
   },
   overview: {
     label:'VISIÓN GENERAL', title:'Escala urbana y flexibilidad en una localización consolidada',
-    p1:'Implantado sobre un terreno de 1.989 m², el Centro Empresarial Yolanda Rico cuenta con aproximadamente 8.100 m² de superficie construida total, que combina áreas corporativas, local comercial, zonas de circulación, infraestructuras del edificio y aparcamiento.',
+    p1:'Implantado sobre un terreno de 2.055 m² — con 17,33 m de frente, 18,85 m de fondo, 111,85 m a la derecha y 115,33 m a la izquierda, según el registro (RGI) —, el Centro Empresarial Yolanda Rico cuenta con aproximadamente 8.100 m² de superficie construida total, que combina áreas corporativas, local comercial, zonas de circulación, infraestructuras del edificio y aparcamiento.',
     p2:'El área corporativa se distribuye en 8 plantas de aproximadamente 425 m² cada una, permitiendo diferentes configuraciones y modelos de ocupación. Actualmente, las plantas corporativas cuentan con baños para hombres y mujeres.',
-    p3:'En la planta baja, un local comercial de aproximadamente 440 m², con amplia presencia de fachada, ofrece potencial para diferentes operaciones comerciales y de servicios.',
+    p3:'En la planta baja, un local comercial de aproximadamente 390 m² (unos 440 m² incluyendo portería, hall de ascensores y pasillo), con amplia presencia de fachada, ofrece potencial para diferentes operaciones comerciales y de servicios.',
     p4:'El aparcamiento está situado en la parte posterior del terreno y distribuido en tres niveles — sótano, planta baja y segunda planta —, con una capacidad total informada de 125 plazas.',
     statsTitle:'Cifras del activo',
     stats:[
-      {v:'1.989 m²', l:'Terreno'},
+      {v:'2.055 m²', l:'Terreno (RGI)'},
       {v:'8.100 m²', l:'Superficie construida total'},
       {v:'8 plantas', l:'Área corporativa'},
       {v:'≈ 425 m²', l:'Por planta corporativa'},
-      {v:'≈ 440 m²', l:'Local en planta baja'},
+      {v:'≈ 390 m²', l:'Local en planta baja'},
       {v:'125 plazas', l:'Capacidad total informada de aparcamiento'}
     ]
   },
@@ -454,9 +458,11 @@ es: {
       items:[
         {v:'Metro Botafogo', t:'≈12 min', d:'A pie (850 m) — líneas 1 y 2, conexión con toda la ciudad'},
         {v:'En la puerta', t:'Corredores de autobús', d:'Líneas BRS en Rua São Clemente y Voluntários da Pátria'},
-        {v:'Aeropuerto Santos Dumont', t:'≈15 min', d:'En coche — puente aéreo a São Paulo y Brasilia'},
+        {v:'Aeropuerto Santos Dumont', t:'≈15 min · 8 km', d:'En coche — vuelos a varias capitales brasileñas'},
+        {v:'Galeão (GIG)', t:'≈25 min · 19,3 km', d:'En coche — aeropuerto internacional Antônio Carlos Jobim'},
         {v:'Centro (CBD)', t:'≈15 min', d:'En coche o metro directo hasta Carioca/Cinelândia'},
         {v:'Botafogo Praia Shopping', t:'≈12 min', d:'A pie — comercio, servicios y restauración'},
+        {v:'Shopping Rio Sul', t:'≈25 min · 5,2 km', d:'En coche — uno de los mayores centros comerciales de la Zona Sul'},
         {v:'Al lado', t:'Polo corporativo', d:'Las torres corporativas de Praia de Botafogo y Mourisco'},
         {v:'Cercanos', t:'Salud y educación', d:'Hospitales, clínicas y colegios tradicionales del barrio'},
         {v:'Completo', t:'Comercio de calle', d:'Bancos, restaurantes y servicios en la propia São Clemente'}
@@ -559,7 +565,7 @@ es: {
     label:'CONTACTO', title:'Conozca la oportunidad de adquisición',
     p1:'El Centro Empresarial Yolanda Rico ofrece la posibilidad de invertir en un activo urbano con escala, ubicación y diferentes caminos potenciales de creación de valor.',
     p2:'Póngase en contacto para recibir información adicional sobre el inmueble, la documentación disponible y las condiciones del proceso de venta.',
-    priceNote:'Precio a consultar. El activo se ofrece con preferencia por la venta integral, pudiendo considerarse igualmente el alquiler, previa evaluación de las condiciones propuestas.',
+    priceNote:'Precio a consultar. El activo se ofrece en venta integral.',
     broker:'Kely Cristine Martinez · CRECI-RJ 100.131',
     actions:['Solicite información sobre el activo','Reciba el material de inversión','Programe una visita técnica'],
     emailBtn:'Enviar e-mail', waBtn:'WhatsApp',
