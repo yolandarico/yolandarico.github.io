@@ -386,8 +386,8 @@ h2{font-size:25px !important}
 
 </x-dc>
 <script type="text/x-dc" data-dc-script data-props="{
-  &quot;contactEmail&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;kelymartinez@remax.com.br&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Contato&quot;},
-  &quot;contactWhatsapp&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;+55 (21) 99003-7735&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Contato&quot;},
+  &quot;contactEmail&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;sclem258@gmail.com&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Contato&quot;},
+  &quot;contactWhatsapp&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;+34 666 453 107&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Contato&quot;},
   &quot;defaultLang&quot;: {&quot;editor&quot;: &quot;enum&quot;, &quot;options&quot;: [&quot;pt&quot;, &quot;en&quot;, &quot;es&quot;], &quot;default&quot;: &quot;pt&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;Idioma&quot;}
 }">
 class Component extends DCLogic {
@@ -414,8 +414,8 @@ class Component extends DCLogic {
 
   renderVals() {
     const { lang, t } = this.state;
-    const email = this.props.contactEmail ?? 'kelymartinez@remax.com.br';
-    const phone = this.props.contactWhatsapp ?? '+55 (21) 99003-7735';
+    const email = this.props.contactEmail ?? 'sclem258@gmail.com';
+    const phone = this.props.contactWhatsapp ?? '+34 666 453 107';
     const base = {
       font: "500 11px 'Archivo',sans-serif", letterSpacing: '.08em', padding: '7px 12px',
       cursor: 'pointer', border: '1px solid rgba(233,229,218,.3)', borderRadius: 0,
