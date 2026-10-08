@@ -11,8 +11,8 @@
 <helmet data-dc-atomics>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#0e2620">
-<title>Centro Empresarial Yolanda Rico — Edifício à venda em Botafogo, Rio de Janeiro</title>
-<meta name="description" content="Edifício comercial completo à venda em Botafogo: 8.100 m² construídos, 8 pavimentos corporativos de ≈425 m², loja de ≈440 m² e 125 vagas de estacionamento. Rua São Clemente, 258 — Rio de Janeiro.">
+<title>Centro Empresarial Yolanda Rico · São Clemente 258 — Edifício à venda em Botafogo, Rio</title>
+<meta name="description" content="Centro Empresarial Yolanda Rico (Centro Empresarial São Clemente 258): edifício comercial completo à venda em Botafogo: 8.100 m² construídos, 8 pavimentos corporativos de ≈425 m², loja de ≈440 m² e 125 vagas de estacionamento. Rua São Clemente, 258 — Rio de Janeiro.">
 <link rel="canonical" href="https://saoclemente258.com.br/">
 <meta property="og:url" content="https://saoclemente258.com.br/">
 <meta property="og:image" content="https://saoclemente258.com.br/uploads/1_Fachada.png">
@@ -43,7 +43,7 @@ h2{font-size:25px !important}
 }
 </style>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"RealEstateListing","name":"Centro Empresarial Yolanda Rico","url":"https://saoclemente258.com.br/","image":"https://saoclemente258.com.br/uploads/1_Fachada.png","description":"Edifício comercial completo à venda em Botafogo: 8.100 m² construídos, 8 pavimentos corporativos de ≈425 m², loja de ≈440 m² e 125 vagas de estacionamento.","address":{"@type":"PostalAddress","streetAddress":"Rua São Clemente, 258","addressLocality":"Rio de Janeiro","addressRegion":"RJ","addressCountry":"BR"},"offers":{"@type":"Offer","priceCurrency":"BRL","availability":"https://schema.org/InStock","description":"Preço sob consulta — preferência pela venda integral; locação pode ser considerada."}}
+{"@context":"https://schema.org","@type":"RealEstateListing","name":"Centro Empresarial Yolanda Rico","alternateName":["Centro Empresarial São Clemente 258","Centro Empresarial São Clemente","Edifício São Clemente 258","São Clemente 258","Yolanda Rico"],"hasMap":"https://www.google.com/maps/search/?api=1&query=Rua+S%C3%A3o+Clemente+258+Botafogo+Rio+de+Janeiro","url":"https://saoclemente258.com.br/","image":"https://saoclemente258.com.br/uploads/1_Fachada.png","description":"Edifício comercial completo à venda em Botafogo: 8.100 m² construídos, 8 pavimentos corporativos de ≈425 m², loja de ≈440 m² e 125 vagas de estacionamento.","address":{"@type":"PostalAddress","streetAddress":"Rua São Clemente, 258","addressLocality":"Rio de Janeiro","addressRegion":"RJ","addressCountry":"BR"},"offers":{"@type":"Offer","priceCurrency":"BRL","availability":"https://schema.org/InStock","description":"Preço sob consulta — preferência pela venda integral; locação pode ser considerada."}}
 </script>
 </helmet>
 
@@ -408,7 +408,7 @@ class Component extends DCLogic {
   setLang(lang) {
     try { localStorage.setItem('yr-lang', lang); } catch (e) {}
     document.documentElement.lang = lang;
-    document.title = ({pt:'Centro Empresarial Yolanda Rico — Edifício à venda em Botafogo, Rio de Janeiro',en:'Centro Empresarial Yolanda Rico — Office building for sale in Botafogo, Rio de Janeiro',es:'Centro Empresarial Yolanda Rico — Edificio en venta en Botafogo, Río de Janeiro'})[lang] || document.title;
+    document.title = ({pt:'Centro Empresarial Yolanda Rico · São Clemente 258 — Edifício à venda em Botafogo, Rio',en:'Centro Empresarial Yolanda Rico — Office building for sale in Botafogo, Rio de Janeiro',es:'Centro Empresarial Yolanda Rico — Edificio en venta en Botafogo, Río de Janeiro'})[lang] || document.title;
     this.setState({ lang, t: this.content ? this.content[lang] : null });
   }
 

@@ -183,7 +183,7 @@ pt: {
     broker:'Susana Estevez Rico',
     actions:['Solicite informações sobre o ativo','Receba o Memorando de Investimento','Agende uma visita técnica'],
     emailBtn:'Enviar e-mail', waBtn:'WhatsApp',
-    footName:'Centro Empresarial Yolanda Rico', footAddr:'Rua São Clemente, 258 — Botafogo — Rio de Janeiro',
+    footName:'Centro Empresarial Yolanda Rico · São Clemente 258', footAddr:'Rua São Clemente, 258 — Botafogo — Rio de Janeiro',
     taglines:['Um ativo integral em Botafogo.','Uma propriedade familiar unificada.','Cinco caminhos potenciais de criação de valor.','Uma oportunidade para definir o próximo ciclo do imóvel.']
   },
   notice: {
@@ -376,7 +376,7 @@ en: {
     broker:'Susana Estevez Rico',
     actions:['Request information about the asset','Receive the Investment Memorandum','Schedule a technical visit'],
     emailBtn:'Send e-mail', waBtn:'WhatsApp',
-    footName:'Centro Empresarial Yolanda Rico', footAddr:'Rua São Clemente, 258 — Botafogo — Rio de Janeiro',
+    footName:'Centro Empresarial Yolanda Rico · São Clemente 258', footAddr:'Rua São Clemente, 258 — Botafogo — Rio de Janeiro',
     taglines:['One complete asset in Botafogo.','Unified family ownership.','Five potential paths to value creation.','An opportunity to define the property’s next cycle.']
   },
   notice: {
@@ -569,7 +569,7 @@ es: {
     broker:'Susana Estevez Rico',
     actions:['Solicite información sobre el activo','Reciba el material de inversión','Programe una visita técnica'],
     emailBtn:'Enviar e-mail', waBtn:'WhatsApp',
-    footName:'Centro Empresarial Yolanda Rico', footAddr:'Rua São Clemente, 258 — Botafogo — Río de Janeiro',
+    footName:'Centro Empresarial Yolanda Rico · São Clemente 258', footAddr:'Rua São Clemente, 258 — Botafogo — Río de Janeiro',
     taglines:['Un activo integral en Botafogo.','Una propiedad familiar unificada.','Cinco posibles vías para la creación de valor.','Una oportunidad para definir el próximo ciclo del inmueble.']
   },
   notice: {
