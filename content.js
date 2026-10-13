@@ -139,14 +139,14 @@ pt: {
     label:'GALERIA', title:'Conheça o ativo por diferentes perspectivas',
     intro:'Um edifício deve ser entendido por sua escala, seus espaços, sua infraestrutura e suas possibilidades.',
     items:[
-      {t:'A Entrada', d:'Presença de fachada e identidade própria na Rua São Clemente.', slot:'gal-entrance', src:'uploads/2_Entrada.png', ph:'foto: a entrada'},
-      {t:'A Recepção', d:'Portaria renovada, com mármore, madeira e recepção dedicada.', slot:'gal-reception', src:'uploads/3_Portaria_3.jpg', ph:'foto: a recepção'},
-      {t:'O Hall de Elevadores', d:'Circulação vertical com elevadores e sinalização digital.', slot:'gal-elevators', src:'uploads/4_Hall%20Elevadores.jpg', ph:'foto: elevadores'},
-      {t:'Os Espaços', d:'Pavimentos amplos, iluminação natural e flexibilidade de layout.', slot:'gal-floor', src:'uploads/5_3_Andar.jpg', ph:'foto: os espaços'},
-      {t:'As Lajes Livres', d:'Grandes lajes livres com capacidade de transformação.', slot:'gal-slab', src:'uploads/11_5_Andar_2.jpg', ph:'foto: as lajes'},
-      {t:'A Copa', d:'Copas e áreas de apoio nos pavimentos corporativos.', slot:'gal-copa', src:'uploads/6_3_Andar%20Copa.png', ph:'foto: a copa'},
-      {t:'As Vistas', d:'Vistas abertas para Botafogo e para o Cristo Redentor.', slot:'gal-views', src:'uploads/12_8_andar_exterior.jpg', ph:'foto: as vistas'},
-      {t:'O Estacionamento', d:'Três níveis de garagem com capacidade informada de 125 vagas.', slot:'gal-parking', src:'uploads/13_Garagem%20-%20Subsolo%20empty.png', ph:'foto: estacionamento'}
+      {t:'A Entrada', d:'Presença de fachada e identidade própria na Rua São Clemente.', slot:'gal-entrance', src:'/uploads/2_Entrada.png', ph:'foto: a entrada'},
+      {t:'A Recepção', d:'Portaria renovada, com mármore, madeira e recepção dedicada.', slot:'gal-reception', src:'/uploads/3_Portaria_3.jpg', ph:'foto: a recepção'},
+      {t:'O Hall de Elevadores', d:'Circulação vertical com elevadores e sinalização digital.', slot:'gal-elevators', src:'/uploads/4_Hall%20Elevadores.jpg', ph:'foto: elevadores'},
+      {t:'Os Espaços', d:'Pavimentos amplos, iluminação natural e flexibilidade de layout.', slot:'gal-floor', src:'/uploads/5_3_Andar.jpg', ph:'foto: os espaços'},
+      {t:'As Lajes Livres', d:'Grandes lajes livres com capacidade de transformação.', slot:'gal-slab', src:'/uploads/11_5_Andar_2.jpg', ph:'foto: as lajes'},
+      {t:'A Copa', d:'Copas e áreas de apoio nos pavimentos corporativos.', slot:'gal-copa', src:'/uploads/6_3_Andar%20Copa.png', ph:'foto: a copa'},
+      {t:'As Vistas', d:'Vistas abertas para Botafogo e para o Cristo Redentor.', slot:'gal-views', src:'/uploads/12_8_andar_exterior.jpg', ph:'foto: as vistas'},
+      {t:'O Estacionamento', d:'Três níveis de garagem com capacidade informada de 125 vagas.', slot:'gal-parking', src:'/uploads/13_Garagem%20-%20Subsolo%20empty.png', ph:'foto: estacionamento'}
     ]
   },
   plans: {
@@ -154,12 +154,12 @@ pt: {
     intro:'Consulte as plantas do levantamento cadastral: subsolo, garagens, pavimentos corporativos, cobertura, corte e fachada.',
     openCurrent:'Abrir esta planta em nova aba (PDF)', viewAll:'Abrir o levantamento completo (PDF)',
     items:[
-      {l:'Subsolo · Corte · Fachada', f:'uploads/LevantamentoCadastral_Subsolo-Corte-Fachada.pdf'},
-      {l:'Térreo · Garagem 2º', f:'uploads/LevantamentoCadastral_PavTerreo-2%20Garagem.pdf'},
-      {l:'2º e 3º Pavimentos', f:'uploads/LevantamentoCadastral_2Pav-3Pav.pdf'},
-      {l:'4º e 5º Pavimentos', f:'uploads/LevantamentoCadastral_4Pav-5Pav.pdf'},
-      {l:'6º e 7º Pavimentos', f:'uploads/LevantamentoCadastral_6Pav-7Pav.pdf'},
-      {l:'8º Pavimento · Cobertura', f:'uploads/LevantamentoCadastral_8Pav-Cobertura.pdf'}
+      {l:'Subsolo · Corte · Fachada', f:'/uploads/LevantamentoCadastral_Subsolo-Corte-Fachada.pdf'},
+      {l:'Térreo · Garagem 2º', f:'/uploads/LevantamentoCadastral_PavTerreo-2%20Garagem.pdf'},
+      {l:'2º e 3º Pavimentos', f:'/uploads/LevantamentoCadastral_2Pav-3Pav.pdf'},
+      {l:'4º e 5º Pavimentos', f:'/uploads/LevantamentoCadastral_4Pav-5Pav.pdf'},
+      {l:'6º e 7º Pavimentos', f:'/uploads/LevantamentoCadastral_6Pav-7Pav.pdf'},
+      {l:'8º Pavimento · Cobertura', f:'/uploads/LevantamentoCadastral_8Pav-Cobertura.pdf'}
     ]
   },
   process: {
@@ -332,14 +332,14 @@ en: {
     label:'GALLERY', title:'Explore the asset from different perspectives',
     intro:'A building should be understood through its scale, its spaces, its infrastructure and its possibilities.',
     items:[
-      {t:'The Entrance', d:'Street presence and a distinct identity on Rua São Clemente.', slot:'gal-entrance', src:'uploads/2_Entrada.png', ph:'photo: the entrance'},
-      {t:'The Reception', d:'A renovated lobby in marble and wood, with a dedicated front desk.', slot:'gal-reception', src:'uploads/3_Portaria_3.jpg', ph:'photo: the reception'},
-      {t:'The Elevator Hall', d:'Vertical circulation with elevators and digital signage.', slot:'gal-elevators', src:'uploads/4_Hall%20Elevadores.jpg', ph:'photo: elevators'},
-      {t:'The Spaces', d:'Spacious floors, natural light and layout flexibility.', slot:'gal-floor', src:'uploads/5_3_Andar.jpg', ph:'photo: the spaces'},
-      {t:'The Open Floor Plates', d:'Large free slabs with real capacity for transformation.', slot:'gal-slab', src:'uploads/11_5_Andar_2.jpg', ph:'photo: floor plates'},
-      {t:'The Pantry', d:'Pantries and support areas on the corporate floors.', slot:'gal-copa', src:'uploads/6_3_Andar%20Copa.png', ph:'photo: pantry'},
-      {t:'The Views', d:'Open views over Botafogo and toward Christ the Redeemer.', slot:'gal-views', src:'uploads/12_8_andar_exterior.jpg', ph:'photo: the views'},
-      {t:'The Parking', d:'Three garage levels with a reported capacity of 125 spaces.', slot:'gal-parking', src:'uploads/13_Garagem%20-%20Subsolo%20empty.png', ph:'photo: parking'}
+      {t:'The Entrance', d:'Street presence and a distinct identity on Rua São Clemente.', slot:'gal-entrance', src:'/uploads/2_Entrada.png', ph:'photo: the entrance'},
+      {t:'The Reception', d:'A renovated lobby in marble and wood, with a dedicated front desk.', slot:'gal-reception', src:'/uploads/3_Portaria_3.jpg', ph:'photo: the reception'},
+      {t:'The Elevator Hall', d:'Vertical circulation with elevators and digital signage.', slot:'gal-elevators', src:'/uploads/4_Hall%20Elevadores.jpg', ph:'photo: elevators'},
+      {t:'The Spaces', d:'Spacious floors, natural light and layout flexibility.', slot:'gal-floor', src:'/uploads/5_3_Andar.jpg', ph:'photo: the spaces'},
+      {t:'The Open Floor Plates', d:'Large free slabs with real capacity for transformation.', slot:'gal-slab', src:'/uploads/11_5_Andar_2.jpg', ph:'photo: floor plates'},
+      {t:'The Pantry', d:'Pantries and support areas on the corporate floors.', slot:'gal-copa', src:'/uploads/6_3_Andar%20Copa.png', ph:'photo: pantry'},
+      {t:'The Views', d:'Open views over Botafogo and toward Christ the Redeemer.', slot:'gal-views', src:'/uploads/12_8_andar_exterior.jpg', ph:'photo: the views'},
+      {t:'The Parking', d:'Three garage levels with a reported capacity of 125 spaces.', slot:'gal-parking', src:'/uploads/13_Garagem%20-%20Subsolo%20empty.png', ph:'photo: parking'}
     ]
   },
   plans: {
@@ -347,12 +347,12 @@ en: {
     intro:'Browse the cadastral survey drawings: basement, garages, corporate floors, rooftop, section and facade.',
     openCurrent:'Open this plan in a new tab (PDF)', viewAll:'Open the complete survey (PDF)',
     items:[
-      {l:'Basement · Section · Facade', f:'uploads/LevantamentoCadastral_Subsolo-Corte-Fachada.pdf'},
-      {l:'Ground floor · Garage 2', f:'uploads/LevantamentoCadastral_PavTerreo-2%20Garagem.pdf'},
-      {l:'2nd and 3rd floors', f:'uploads/LevantamentoCadastral_2Pav-3Pav.pdf'},
-      {l:'4th and 5th floors', f:'uploads/LevantamentoCadastral_4Pav-5Pav.pdf'},
-      {l:'6th and 7th floors', f:'uploads/LevantamentoCadastral_6Pav-7Pav.pdf'},
-      {l:'8th floor · Rooftop', f:'uploads/LevantamentoCadastral_8Pav-Cobertura.pdf'}
+      {l:'Basement · Section · Facade', f:'/uploads/LevantamentoCadastral_Subsolo-Corte-Fachada.pdf'},
+      {l:'Ground floor · Garage 2', f:'/uploads/LevantamentoCadastral_PavTerreo-2%20Garagem.pdf'},
+      {l:'2nd and 3rd floors', f:'/uploads/LevantamentoCadastral_2Pav-3Pav.pdf'},
+      {l:'4th and 5th floors', f:'/uploads/LevantamentoCadastral_4Pav-5Pav.pdf'},
+      {l:'6th and 7th floors', f:'/uploads/LevantamentoCadastral_6Pav-7Pav.pdf'},
+      {l:'8th floor · Rooftop', f:'/uploads/LevantamentoCadastral_8Pav-Cobertura.pdf'}
     ]
   },
   process: {
@@ -525,14 +525,14 @@ es: {
     label:'GALERÍA', title:'Conozca el activo desde diferentes perspectivas',
     intro:'Un edificio debe entenderse a través de su escala, sus espacios, su infraestructura y sus posibilidades.',
     items:[
-      {t:'La Entrada', d:'Presencia de fachada e identidad propia en la Rua São Clemente.', slot:'gal-entrance', src:'uploads/2_Entrada.png', ph:'foto: la entrada'},
-      {t:'La Recepción', d:'Portería renovada, en mármol y madera, con recepción dedicada.', slot:'gal-reception', src:'uploads/3_Portaria_3.jpg', ph:'foto: la recepción'},
-      {t:'El Hall de Ascensores', d:'Circulación vertical con ascensores y señalización digital.', slot:'gal-elevators', src:'uploads/4_Hall%20Elevadores.jpg', ph:'foto: ascensores'},
-      {t:'Los Espacios', d:'Plantas amplias, iluminación natural y flexibilidad de distribución.', slot:'gal-floor', src:'uploads/5_3_Andar.jpg', ph:'foto: los espacios'},
-      {t:'Las Plantas Libres', d:'Grandes plantas diáfanas con capacidad de transformación.', slot:'gal-slab', src:'uploads/11_5_Andar_2.jpg', ph:'foto: plantas'},
-      {t:'El Office', d:'Offices y áreas de apoyo en las plantas corporativas.', slot:'gal-copa', src:'uploads/6_3_Andar%20Copa.png', ph:'foto: office'},
-      {t:'Las Vistas', d:'Vistas abiertas a Botafogo y al Cristo Redentor.', slot:'gal-views', src:'uploads/12_8_andar_exterior.jpg', ph:'foto: las vistas'},
-      {t:'El Aparcamiento', d:'Tres niveles de garaje con capacidad informada de 125 plazas.', slot:'gal-parking', src:'uploads/13_Garagem%20-%20Subsolo%20empty.png', ph:'foto: aparcamiento'}
+      {t:'La Entrada', d:'Presencia de fachada e identidad propia en la Rua São Clemente.', slot:'gal-entrance', src:'/uploads/2_Entrada.png', ph:'foto: la entrada'},
+      {t:'La Recepción', d:'Portería renovada, en mármol y madera, con recepción dedicada.', slot:'gal-reception', src:'/uploads/3_Portaria_3.jpg', ph:'foto: la recepción'},
+      {t:'El Hall de Ascensores', d:'Circulación vertical con ascensores y señalización digital.', slot:'gal-elevators', src:'/uploads/4_Hall%20Elevadores.jpg', ph:'foto: ascensores'},
+      {t:'Los Espacios', d:'Plantas amplias, iluminación natural y flexibilidad de distribución.', slot:'gal-floor', src:'/uploads/5_3_Andar.jpg', ph:'foto: los espacios'},
+      {t:'Las Plantas Libres', d:'Grandes plantas diáfanas con capacidad de transformación.', slot:'gal-slab', src:'/uploads/11_5_Andar_2.jpg', ph:'foto: plantas'},
+      {t:'El Office', d:'Offices y áreas de apoyo en las plantas corporativas.', slot:'gal-copa', src:'/uploads/6_3_Andar%20Copa.png', ph:'foto: office'},
+      {t:'Las Vistas', d:'Vistas abiertas a Botafogo y al Cristo Redentor.', slot:'gal-views', src:'/uploads/12_8_andar_exterior.jpg', ph:'foto: las vistas'},
+      {t:'El Aparcamiento', d:'Tres niveles de garaje con capacidad informada de 125 plazas.', slot:'gal-parking', src:'/uploads/13_Garagem%20-%20Subsolo%20empty.png', ph:'foto: aparcamiento'}
     ]
   },
   plans: {
@@ -540,12 +540,12 @@ es: {
     intro:'Consulte los planos del levantamiento catastral: sótano, garajes, plantas corporativas, azotea, sección y fachada.',
     openCurrent:'Abrir este plano en una pestaña nueva (PDF)', viewAll:'Abrir el levantamiento completo (PDF)',
     items:[
-      {l:'Sótano · Sección · Fachada', f:'uploads/LevantamentoCadastral_Subsolo-Corte-Fachada.pdf'},
-      {l:'Planta baja · Garaje 2º', f:'uploads/LevantamentoCadastral_PavTerreo-2%20Garagem.pdf'},
-      {l:'Plantas 2ª y 3ª', f:'uploads/LevantamentoCadastral_2Pav-3Pav.pdf'},
-      {l:'Plantas 4ª y 5ª', f:'uploads/LevantamentoCadastral_4Pav-5Pav.pdf'},
-      {l:'Plantas 6ª y 7ª', f:'uploads/LevantamentoCadastral_6Pav-7Pav.pdf'},
-      {l:'Planta 8ª · Azotea', f:'uploads/LevantamentoCadastral_8Pav-Cobertura.pdf'}
+      {l:'Sótano · Sección · Fachada', f:'/uploads/LevantamentoCadastral_Subsolo-Corte-Fachada.pdf'},
+      {l:'Planta baja · Garaje 2º', f:'/uploads/LevantamentoCadastral_PavTerreo-2%20Garagem.pdf'},
+      {l:'Plantas 2ª y 3ª', f:'/uploads/LevantamentoCadastral_2Pav-3Pav.pdf'},
+      {l:'Plantas 4ª y 5ª', f:'/uploads/LevantamentoCadastral_4Pav-5Pav.pdf'},
+      {l:'Plantas 6ª y 7ª', f:'/uploads/LevantamentoCadastral_6Pav-7Pav.pdf'},
+      {l:'Planta 8ª · Azotea', f:'/uploads/LevantamentoCadastral_8Pav-Cobertura.pdf'}
     ]
   },
   process: {
